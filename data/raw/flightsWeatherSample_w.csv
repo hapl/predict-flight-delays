@@ -1,0 +1,201 @@
+"fl_date","mkt_unique_carrier","tail_num","op_carrier_fl_num","origin_airport_id","origin","origin_city_name","dest_airport_id","dest","dest_city_name","weather_delay_r"
+"2019-03-21","DL","N390CA",6248,13296,"MHT","Manchester, NH",11433,"DTW","Detroit, MI",2900
+"2018-07-05","DL","N264SY",4690,11057,"CLT","Charlotte, NC",12478,"JFK","New York, NY",2692
+"2018-02-09","HA","N382HA",465,12173,"HNL","Honolulu, HI",14222,"PPG","Pago Pago, TT",2475
+"2018-12-09","DL","N921EV",3855,15323,"TRI","Bristol/Johnson City/Kingsport, TN",10397,"ATL","Atlanta, GA",2098
+"2019-12-24","AA","N902EV",3115,10874,"CAK","Akron, OH",13930,"ORD","Chicago, IL",1847
+"2018-01-03","HA","N391HA",50,12173,"HNL","Honolulu, HI",12478,"JFK","New York, NY",1682
+"2019-11-13","DL","N453SW",3787,11986,"GRR","Grand Rapids, MI",11433,"DTW","Detroit, MI",1575
+"2019-11-29","UA","N157SY",5676,14698,"SBP","San Luis Obispo, CA",11292,"DEN","Denver, CO",1570
+"2019-10-24","AA","N871NN",189,10140,"ABQ","Albuquerque, NM",11298,"DFW","Dallas/Fort Worth, TX",1552
+"2019-12-09","DL","N675BR",4252,10333,"APN","Alpena, MI",11433,"DTW","Detroit, MI",1550
+"2019-02-23","AA","N93003",2385,12892,"LAX","Los Angeles, CA",11503,"EGE","Eagle, CO",1521
+"2019-11-29","UA","N930SW",5699,11638,"FAT","Fresno, CA",11292,"DEN","Denver, CO",1486
+"2018-09-23","UA","N909SW",5141,13930,"ORD","Chicago, IL",11076,"CMX","Hancock/Houghton, MI",1466
+"2019-12-01","DL","N431SW",4268,12335,"IMT","Iron Mountain/Kingsfd, MI",13487,"MSP","Minneapolis, MN",1460
+"2019-08-20","UA","N150SY",5506,10529,"BDL","Hartford, CT",13930,"ORD","Chicago, IL",1440
+"2019-12-29","DL","N8982A",3690,11066,"CMH","Columbus, OH",11433,"DTW","Detroit, MI",1438
+"2019-06-29","UA","N16976",4334,11042,"CLE","Cleveland, OH",11618,"EWR","Newark, NJ",1431
+"2019-12-15","UA","N508MJ",6010,13198,"MCI","Kansas City, MO",12266,"IAH","Houston, TX",1422
+"2019-01-19","AA","N760SK",3234,14730,"SDF","Louisville, KY",13930,"ORD","Chicago, IL",1416
+"2019-04-12","DL","N912EV",3886,12945,"LEX","Lexington, KY",11433,"DTW","Detroit, MI",1410
+"2019-01-19","UA","N33203",679,14057,"PDX","Portland, OR",13930,"ORD","Chicago, IL",1398
+"2019-10-05","DL","N885AS",3865,11337,"DLH","Duluth, MN",13487,"MSP","Minneapolis, MN",1395
+"2018-06-07","DL","N857AS",4152,13230,"MDT","Harrisburg, PA",11433,"DTW","Detroit, MI",1392
+"2019-01-04","DL","N878AS",3605,10781,"BTR","Baton Rouge, LA",10397,"ATL","Atlanta, GA",1390
+"2019-02-03","UA","N780SK",5643,10372,"ASE","Aspen, CO",13930,"ORD","Chicago, IL",1389
+"2019-02-07","DL","N603SK",3592,13485,"MSN","Madison, WI",13487,"MSP","Minneapolis, MN",1388
+"2019-07-18","UA","N203SY",5950,13198,"MCI","Kansas City, MO",13930,"ORD","Chicago, IL",1385
+"2019-11-29","UA","N952SW",5380,12896,"LBB","Lubbock, TX",11292,"DEN","Denver, CO",1382
+"2018-11-25","UA","N401UA",450,12339,"IND","Indianapolis, IN",13930,"ORD","Chicago, IL",1352
+"2018-03-20","UA","N903EV",5287,14730,"SDF","Louisville, KY",13930,"ORD","Chicago, IL",1352
+"2018-01-07","DL","N254SY",4656,14489,"RDM","Bend/Redmond, OR",13264,"MFR","Medford, OR",1347
+"2019-04-19","AA","N427YX",4407,10423,"AUS","Austin, TX",13303,"MIA","Miami, FL",1338
+"2019-11-29","UA","N797SK",5571,10372,"ASE","Aspen, CO",11292,"DEN","Denver, CO",1335
+"2019-04-22","DL","N878AS",7406,13459,"MQT","Marquette, MI",11433,"DTW","Detroit, MI",1332
+"2019-01-19","UA","N783CA",4245,14685,"SAV","Savannah, GA",13930,"ORD","Chicago, IL",1332
+"2019-11-29","UA","N951SW",5892,13029,"LNK","Lincoln, NE",11292,"DEN","Denver, CO",1331
+"2019-09-27","UA","N446AW",4835,13244,"MEM","Memphis, TN",13930,"ORD","Chicago, IL",1328
+"2018-12-14","G4","233NV",2797,14112,"PIE","St. Petersburg, FL",10431,"AVL","Asheville, NC",1326
+"2018-12-26","UA","N87318",6125,13502,"MTJ","Montrose/Delta, CO",12266,"IAH","Houston, TX",1325
+"2019-04-03","DL","N418SW",4055,12945,"LEX","Lexington, KY",10397,"ATL","Atlanta, GA",1322
+"2019-01-28","DL","N772SK",3796,11042,"CLE","Cleveland, OH",11433,"DTW","Detroit, MI",1322
+"2019-11-29","UA","N964SW",5673,15016,"STL","St. Louis, MO",11292,"DEN","Denver, CO",1320
+"2018-11-25","UA","N803UA",515,11066,"CMH","Columbus, OH",13930,"ORD","Chicago, IL",1319
+"2018-05-14","DL","N809SK",4644,13930,"ORD","Chicago, IL",12953,"LGA","New York, NY",1316
+"2018-04-14","DL","N770SK",3549,11637,"FAR","Fargo, ND",13487,"MSP","Minneapolis, MN",1308
+"2019-11-30","DL","N506CA",4262,10739,"BRD","Brainerd, MN",13487,"MSP","Minneapolis, MN",1306
+"2019-07-20","DL","N899SK",3752,14576,"ROC","Rochester, NY",11433,"DTW","Detroit, MI",1302
+"2019-05-24","DL","N496CA",4297,13076,"LSE","La Crosse, WI",11433,"DTW","Detroit, MI",1299
+"2018-04-14","DL","N433SW",4697,13029,"LNK","Lincoln, NE",13487,"MSP","Minneapolis, MN",1293
+"2019-07-20","DL","N817SK",3877,11003,"CID","Cedar Rapids/Iowa City, IA",11433,"DTW","Detroit, MI",1292
+"2018-05-16","DL","N8923A",4224,12335,"IMT","Iron Mountain/Kingsfd, MI",11433,"DTW","Detroit, MI",1287
+"2018-07-03","UA","N13161",4897,10821,"BWI","Baltimore, MD",11618,"EWR","Newark, NJ",1287
+"2019-11-15","DL","N247SY",3857,12889,"LAS","Las Vegas, NV",12954,"LGB","Long Beach, CA",1280
+"2019-04-14","UA","N912SW",5619,11637,"FAR","Fargo, ND",13930,"ORD","Chicago, IL",1277
+"2019-12-09","DL","N926EV",4135,11775,"FSD","Sioux Falls, SD",13487,"MSP","Minneapolis, MN",1273
+"2019-01-28","DL","N631SK",4138,12197,"HPN","White Plains, NY",11433,"DTW","Detroit, MI",1270
+"2018-11-25","G4","866GA",2135,11637,"FAR","Fargo, ND",14761,"SFB","Sanford, FL",1270
+"2019-12-30","UA","N13161",4987,14321,"PWM","Portland, ME",11618,"EWR","Newark, NJ",1268
+"2019-11-22","DL","N260SY",3935,14252,"PSC","Pasco/Kennewick/Richland, WA",14747,"SEA","Seattle, WA",1265
+"2019-05-18","AA","N173AN",399,11298,"DFW","Dallas/Fort Worth, TX",10299,"ANC","Anchorage, AK",1264
+"2018-04-04","UA","N515MJ",6030,15096,"SYR","Syracuse, NY",12264,"IAD","Washington, DC",1261
+"2019-11-22","DL","N260SY",3935,14747,"SEA","Seattle, WA",14252,"PSC","Pasco/Kennewick/Richland, WA",1259
+"2018-10-26","DL","N935SW",4298,15070,"SWF","Newburgh/Poughkeepsie, NY",11433,"DTW","Detroit, MI",1258
+"2019-11-29","UA","N211SY",5853,11503,"EGE","Eagle, CO",11292,"DEN","Denver, CO",1256
+"2019-09-27","DL","N331CA",6309,13232,"MDW","Chicago, IL",11433,"DTW","Detroit, MI",1254
+"2018-07-31","DL","N953SW",4602,10146,"ABY","Albany, GA",10397,"ATL","Atlanta, GA",1252
+"2018-11-25","UA","N493UA",320,11986,"GRR","Grand Rapids, MI",13930,"ORD","Chicago, IL",1244
+"2018-10-12","DL","N679CA",4568,14683,"SAT","San Antonio, TX",13487,"MSP","Minneapolis, MN",1241
+"2019-08-08","UA","N2136U",1885,11618,"EWR","Newark, NJ",14771,"SFO","San Francisco, CA",1239
+"2018-06-24","DL","N856AS",4576,14457,"RAP","Rapid City, SD",13487,"MSP","Minneapolis, MN",1237
+"2019-07-11","UA","N67134",1913,11697,"FLL","Fort Lauderdale, FL",11618,"EWR","Newark, NJ",1237
+"2019-11-21","DL","N868CA",4240,11921,"GJT","Grand Junction, CO",14869,"SLC","Salt Lake City, UT",1236
+"2019-04-14","UA","N466SW",5668,12448,"JAN","Jackson/Vicksburg, MS",13930,"ORD","Chicago, IL",1236
+"2019-06-05","UA","N906EV",5937,12992,"LIT","Little Rock, AR",11292,"DEN","Denver, CO",1234
+"2019-01-22","UA","N983SW",5586,11003,"CID","Cedar Rapids/Iowa City, IA",13930,"ORD","Chicago, IL",1227
+"2019-06-24","G4","219NV",2981,13931,"ORF","Norfolk, VA",11042,"CLE","Cleveland, OH",1226
+"2018-07-27","UA","N423UA",1074,14685,"SAV","Savannah, GA",11618,"EWR","Newark, NJ",1224
+"2019-08-07","DL","N869RW",5992,12478,"JFK","New York, NY",11278,"DCA","Washington, DC",1223
+"2018-05-30","UA","N709BR",5204,11111,"COU","Columbia, MO",13930,"ORD","Chicago, IL",1223
+"2018-12-26","UA","N89304",6259,11298,"DFW","Dallas/Fort Worth, TX",12266,"IAH","Houston, TX",1214
+"2019-06-01","AA","N905J",5932,12448,"JAN","Jackson/Vicksburg, MS",11298,"DFW","Dallas/Fort Worth, TX",1213
+"2019-12-09","DL","N675BR",4252,11433,"DTW","Detroit, MI",10333,"APN","Alpena, MI",1211
+"2019-08-07","UA","N41140",1913,11697,"FLL","Fort Lauderdale, FL",11618,"EWR","Newark, NJ",1210
+"2019-01-22","AA","N718SK",2992,10372,"ASE","Aspen, CO",13930,"ORD","Chicago, IL",1209
+"2018-04-03","DL","N153PQ",3370,10397,"ATL","Atlanta, GA",12197,"HPN","White Plains, NY",1206
+"2018-04-14","DL","N899SK",4786,11298,"DFW","Dallas/Fort Worth, TX",14869,"SLC","Salt Lake City, UT",1204
+"2019-03-22","DL","N801AY",5139,12953,"LGA","New York, NY",10785,"BTV","Burlington, VT",1203
+"2019-02-20","DL","N800SK",3623,13871,"OMA","Omaha, NE",13487,"MSP","Minneapolis, MN",1203
+"2018-02-11","UA","N789SK",5535,14771,"SFO","San Francisco, CA",13388,"MMH","Mammoth Lakes, CA",1203
+"2018-11-26","DL","N161PQ",3994,13487,"MSP","Minneapolis, MN",14524,"RIC","Richmond, VA",1203
+"2019-01-16","UA","N937SW",5265,14489,"RDM","Bend/Redmond, OR",14771,"SFO","San Francisco, CA",1199
+"2018-04-14","DL","N889DN",588,14747,"SEA","Seattle, WA",13487,"MSP","Minneapolis, MN",1198
+"2019-01-20","DL","N912DE",1875,10257,"ALB","Albany, NY",10397,"ATL","Atlanta, GA",1198
+"2018-07-17","UA","N784SK",5951,10372,"ASE","Aspen, CO",11292,"DEN","Denver, CO",1198
+"2018-12-28","UA","N13979",4059,11996,"GSP","Greer, SC",13930,"ORD","Chicago, IL",1196
+"2019-08-05","UA","N88327",6047,13487,"MSP","Minneapolis, MN",12264,"IAD","Washington, DC",1196
+"2019-05-09","UA","N88310",6054,11193,"CVG","Cincinnati, OH",12266,"IAH","Houston, TX",1196
+"2019-03-09","DL","N829SK",3588,13244,"MEM","Memphis, TN",13487,"MSP","Minneapolis, MN",1196
+"2018-01-04","AA","N442AW",4192,10868,"CAE","Columbia, SC",14100,"PHL","Philadelphia, PA",1194
+"2019-04-12","UA","N519LR",6026,10785,"BTV","Burlington, VT",12264,"IAD","Washington, DC",1194
+"2018-02-20","DL","N679CA",4869,11298,"DFW","Dallas/Fort Worth, TX",14869,"SLC","Salt Lake City, UT",1194
+"2019-05-07","UA","N85323",6339,15376,"TUS","Tucson, AZ",12266,"IAH","Houston, TX",1194
+"2019-05-18","AA","N247LR",5749,12448,"JAN","Jackson/Vicksburg, MS",11298,"DFW","Dallas/Fort Worth, TX",1193
+"2018-05-29","DL","N614SK",3566,13487,"MSP","Minneapolis, MN",13871,"OMA","Omaha, NE",1189
+"2019-03-08","UA","N21723",243,11503,"EGE","Eagle, CO",13930,"ORD","Chicago, IL",1187
+"2018-11-15","DL","N347NW",357,12478,"JFK","New York, NY",13487,"MSP","Minneapolis, MN",1187
+"2018-11-26","DL","N161PQ",3994,14524,"RIC","Richmond, VA",13487,"MSP","Minneapolis, MN",1186
+"2018-01-22","DL","N447SW",4289,12335,"IMT","Iron Mountain/Kingsfd, MI",13487,"MSP","Minneapolis, MN",1186
+"2019-08-02","DL","N247SY",3709,11042,"CLE","Cleveland, OH",12953,"LGA","New York, NY",1184
+"2018-12-26","DL","N897SK",4791,11298,"DFW","Dallas/Fort Worth, TX",14869,"SLC","Salt Lake City, UT",1180
+"2019-12-13","DL","N779CA",4150,10620,"BIL","Billings, MT",14869,"SLC","Salt Lake City, UT",1179
+"2018-03-02","UA","N733YX",3728,15096,"SYR","Syracuse, NY",13930,"ORD","Chicago, IL",1178
+"2019-10-05","DL","N452SW",3968,13487,"MSP","Minneapolis, MN",11337,"DLH","Duluth, MN",1175
+"2018-05-15","UA","N503MJ",6123,14122,"PIT","Pittsburgh, PA",12264,"IAD","Washington, DC",1174
+"2019-05-18","AA","N928LR",5923,10994,"CHS","Charleston, SC",11298,"DFW","Dallas/Fort Worth, TX",1174
+"2019-03-25","DL","N882AS",4890,11146,"CRW","Charleston/Dunbar, WV",10397,"ATL","Atlanta, GA",1171
+"2019-08-07","UA","N401UA",2050,13577,"MYR","Myrtle Beach, SC",11618,"EWR","Newark, NJ",1169
+"2018-12-26","AA","N929AN",1208,12094,"HDN","Hayden, CO",11298,"DFW","Dallas/Fort Worth, TX",1168
+"2019-09-27","DL","N302NB",2596,13930,"ORD","Chicago, IL",11433,"DTW","Detroit, MI",1167
+"2019-05-07","UA","N86336",6092,13158,"MAF","Midland/Odessa, TX",12266,"IAH","Houston, TX",1166
+"2019-08-08","DL","N288SY",3551,15096,"SYR","Syracuse, NY",12953,"LGA","New York, NY",1165
+"2018-08-14","UA","N21197",4897,10821,"BWI","Baltimore, MD",11618,"EWR","Newark, NJ",1165
+"2018-11-15","UA","N12135",4159,10721,"BOS","Boston, MA",11042,"CLE","Cleveland, OH",1164
+"2019-07-18","DL","N625CA",3663,13487,"MSP","Minneapolis, MN",12266,"IAH","Houston, TX",1162
+"2018-07-08","UA","N87302",6019,11298,"DFW","Dallas/Fort Worth, TX",12266,"IAH","Houston, TX",1161
+"2019-08-07","UA","N12218",496,10397,"ATL","Atlanta, GA",11618,"EWR","Newark, NJ",1161
+"2018-02-04","DL","N613SK",3562,11433,"DTW","Detroit, MI",13930,"ORD","Chicago, IL",1158
+"2019-07-26","DL","N265SY",4695,12953,"LGA","New York, NY",14524,"RIC","Richmond, VA",1158
+"2019-11-11","DL","N922AT",1214,13930,"ORD","Chicago, IL",12953,"LGA","New York, NY",1157
+"2019-03-27","DL","N270SY",4281,13931,"ORF","Norfolk, VA",11433,"DTW","Detroit, MI",1156
+"2019-12-09","DL","N920EV",3776,13487,"MSP","Minneapolis, MN",14457,"RAP","Rapid City, SD",1156
+"2019-11-25","UA","N803UA",1486,10140,"ABQ","Albuquerque, NM",11292,"DEN","Denver, CO",1155
+"2019-04-07","UA","N80343",6326,11433,"DTW","Detroit, MI",12266,"IAH","Houston, TX",1155
+"2018-12-20","UA","N152SY",5903,14771,"SFO","San Francisco, CA",12441,"JAC","Jackson, WY",1155
+"2018-04-14","DL","N692DL",1509,13204,"MCO","Orlando, FL",13487,"MSP","Minneapolis, MN",1154
+"2018-12-02","DL","N635CZ",5747,14747,"SEA","Seattle, WA",14252,"PSC","Pasco/Kennewick/Richland, WA",1153
+"2019-01-03","DL","N807SK",4565,13851,"OKC","Oklahoma City, OK",14869,"SLC","Salt Lake City, UT",1151
+"2019-02-20","DL","N446SW",4179,10408,"ATW","Appleton, WI",11433,"DTW","Detroit, MI",1150
+"2019-07-06","DL","N659CA",6283,14321,"PWM","Portland, ME",11433,"DTW","Detroit, MI",1150
+"2018-07-06","DL","N264SY",4142,12478,"JFK","New York, NY",11057,"CLT","Charlotte, NC",1149
+"2019-06-13","DL","N433SW",4828,13487,"MSP","Minneapolis, MN",10627,"BIS","Bismarck/Mandan, ND",1149
+"2019-08-30","DL","N916DE",1171,11298,"DFW","Dallas/Fort Worth, TX",10397,"ATL","Atlanta, GA",1148
+"2018-01-12","DL","N613SK",4623,11433,"DTW","Detroit, MI",14307,"PVD","Providence, RI",1148
+"2019-12-08","DL","N912EV",3931,11775,"FSD","Sioux Falls, SD",13487,"MSP","Minneapolis, MN",1145
+"2019-11-28","DL","N702BR",4100,14457,"RAP","Rapid City, SD",13487,"MSP","Minneapolis, MN",1144
+"2019-07-02","AA","N778SK",3087,14457,"RAP","Rapid City, SD",13930,"ORD","Chicago, IL",1144
+"2018-07-05","DL","N764SK",4640,15041,"SUN","Sun Valley/Hailey/Ketchum, ID",14869,"SLC","Salt Lake City, UT",1143
+"2019-02-17","UA","N463AW",3926,10693,"BNA","Nashville, TN",13930,"ORD","Chicago, IL",1143
+"2018-02-19","UA","N957SW",5046,14543,"RKS","Rock Springs, WY",11292,"DEN","Denver, CO",1142
+"2019-05-02","DL","N809SK",3950,14683,"SAT","San Antonio, TX",11433,"DTW","Detroit, MI",1141
+"2019-06-13","DL","N433SW",4828,10627,"BIS","Bismarck/Mandan, ND",13487,"MSP","Minneapolis, MN",1141
+"2018-05-15","DL","N936DN",2677,11433,"DTW","Detroit, MI",14100,"PHL","Philadelphia, PA",1141
+"2018-04-14","DL","N897SK",3575,13487,"MSP","Minneapolis, MN",11298,"DFW","Dallas/Fort Worth, TX",1140
+"2019-04-19","UA","N86312",6024,14635,"RSW","Fort Myers, FL",12266,"IAH","Houston, TX",1139
+"2018-09-22","DL","N969AT",775,12448,"JAN","Jackson/Vicksburg, MS",10397,"ATL","Atlanta, GA",1139
+"2019-12-31","DL","N8923A",4220,11433,"DTW","Detroit, MI",13459,"MQT","Marquette, MI",1139
+"2018-03-04","DL","N636CZ",5807,14869,"SLC","Salt Lake City, UT",10849,"BZN","Bozeman, MT",1137
+"2018-08-17","DL","N820SK",4608,11618,"EWR","Newark, NJ",11433,"DTW","Detroit, MI",1136
+"2019-03-08","DL","N659BR",3618,11638,"FAT","Fresno, CA",14869,"SLC","Salt Lake City, UT",1136
+"2019-08-01","DL","N922EV",3887,11308,"DHN","Dothan, AL",10397,"ATL","Atlanta, GA",1134
+"2019-08-08","UA","N13161",4943,10792,"BUF","Buffalo, NY",11618,"EWR","Newark, NJ",1133
+"2019-01-22","DL","N548CA",3824,13342,"MKE","Milwaukee, WI",11433,"DTW","Detroit, MI",1132
+"2018-01-12","DL","N931XJ",3510,10693,"BNA","Nashville, TN",12953,"LGA","New York, NY",1132
+"2018-05-14","UA","N472CA",5493,12278,"ICT","Wichita, KS",13930,"ORD","Chicago, IL",1131
+"2018-11-15","AA","N113AN",133,12478,"JFK","New York, NY",12892,"LAX","Los Angeles, CA",1127
+"2019-12-12","DL","N426SW",4248,13459,"MQT","Marquette, MI",11433,"DTW","Detroit, MI",1127
+"2019-03-11","DL","N281SY",3659,14524,"RIC","Richmond, VA",12953,"LGA","New York, NY",1123
+"2019-02-07","DL","N951AT",1326,13487,"MSP","Minneapolis, MN",14492,"RDU","Raleigh/Durham, NC",1123
+"2019-12-16","DL","N601XJ",3518,12007,"GTR","Columbus, MS",10397,"ATL","Atlanta, GA",1121
+"2018-11-15","DL","N3767",320,12478,"JFK","New York, NY",12889,"LAS","Las Vegas, NV",1119
+"2018-07-03","UA","N14177",4974,14524,"RIC","Richmond, VA",11618,"EWR","Newark, NJ",1119
+"2019-03-02","UA","N779SK",5643,10372,"ASE","Aspen, CO",13930,"ORD","Chicago, IL",1119
+"2018-05-02","AA","N464SW",3219,15919,"XNA","Fayetteville, AR",13930,"ORD","Chicago, IL",1118
+"2018-12-31","DL","N240SY",4581,14747,"SEA","Seattle, WA",10713,"BOI","Boise, ID",1118
+"2019-12-15","UA","N17984",4245,13198,"MCI","Kansas City, MO",13930,"ORD","Chicago, IL",1117
+"2018-07-17","UA","N894UA",1112,10397,"ATL","Atlanta, GA",11618,"EWR","Newark, NJ",1116
+"2019-01-06","UA","N785SK",5949,13388,"MMH","Mammoth Lakes, CA",12892,"LAX","Los Angeles, CA",1116
+"2019-10-22","UA","N854AS",5097,12892,"LAX","Los Angeles, CA",14716,"SCK","Stockton, CA",1116
+"2019-07-19","UA","N779SK",5921,10397,"ATL","Atlanta, GA",13930,"ORD","Chicago, IL",1115
+"2018-09-03","UA","N969SW",5002,10431,"AVL","Asheville, NC",13930,"ORD","Chicago, IL",1114
+"2018-08-18","DL","N625CA",4529,14869,"SLC","Salt Lake City, UT",10372,"ASE","Aspen, CO",1114
+"2018-11-16","DL","N899SK",3662,10849,"BZN","Bozeman, MT",14869,"SLC","Salt Lake City, UT",1113
+"2019-12-13","UA","N13227",465,11292,"DEN","Denver, CO",10620,"BIL","Billings, MT",1111
+"2019-01-19","UA","N458AW",4835,12278,"ICT","Wichita, KS",13930,"ORD","Chicago, IL",1111
+"2018-11-25","UA","N804UA",283,14262,"PSP","Palm Springs, CA",13930,"ORD","Chicago, IL",1110
+"2019-07-19","DL","N445SW",3570,15380,"TVC","Traverse City, MI",11433,"DTW","Detroit, MI",1110
+"2018-11-12","DL","N913EV",3919,11641,"FAY","Fayetteville, NC",10397,"ATL","Atlanta, GA",1107
+"2019-05-07","DL","N604SK",4797,14457,"RAP","Rapid City, SD",13487,"MSP","Minneapolis, MN",1106
+"2019-07-02","UA","N693BR",5033,11471,"EAU","Eau Claire, WI",13930,"ORD","Chicago, IL",1106
+"2019-07-19","DL","N659BR",3650,14696,"SBN","South Bend, IN",10397,"ATL","Atlanta, GA",1105
+"2019-09-27","UA","N110SY",5251,13930,"ORD","Chicago, IL",14570,"RNO","Reno, NV",1105
+"2018-07-17","UA","N87318",6070,12264,"IAD","Washington, DC",13487,"MSP","Minneapolis, MN",1104
+"2019-10-11","DL","N875AS",3617,13487,"MSP","Minneapolis, MN",11337,"DLH","Duluth, MN",1103
+"2018-07-22","NK","N603NK",725,13204,"MCO","Orlando, FL",12889,"LAS","Las Vegas, NV",1103
+"2019-05-07","UA","N795SK",5297,11298,"DFW","Dallas/Fort Worth, TX",11292,"DEN","Denver, CO",1103
+"2018-12-26","AA","N950LR",5849,13851,"OKC","Oklahoma City, OK",11298,"DFW","Dallas/Fort Worth, TX",1103
+"2019-03-09","UA","N88325",6017,12266,"IAH","Houston, TX",12992,"LIT","Little Rock, AR",1103
+"2019-05-11","UA","N24103",4142,14193,"PNS","Pensacola, FL",12266,"IAH","Houston, TX",1102
+"2018-05-15","DL","N380DA",2164,12478,"JFK","New York, NY",14683,"SAT","San Antonio, TX",1100
+"2019-07-19","DL","N659BR",4756,11433,"DTW","Detroit, MI",14696,"SBN","South Bend, IN",1099
