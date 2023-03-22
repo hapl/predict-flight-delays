@@ -100,6 +100,17 @@ total_cost,
 year
 FROM fuel_comsumption
 WHERE year in (2018,2019);
+SELECT op_carrier_fl_num, op_unique_carrier, origin_airport_id, dest_airport_id, distance, route, day
+	FROM public.week_one
+	ORDER BY random()
+	LIMIT 10000;
+
+
+
+SELECT * FROM flights
+WHERE op_carrier_fl_num = 5390 and mkt_unique_carrier = 'WN'
+LIMIT 100;
+
 
 
 
