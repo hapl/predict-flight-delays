@@ -76,4 +76,30 @@ LIMIT 200;
 --ORDER BY random()
 --LIMIT 100;
 
+SELECT month,
+unique_carrier, 
+carrier_name, 
+sdomt_gallons, 
+satl_gallons, 
+spac_gallons, 
+slat_gallons, 
+sint_gallons, 
+ts_gallons, 
+tdomt_gallons, 
+tint_gallons, 
+total_gallons, 
+sdomt_cost, 
+satl_cost, 
+spac_cost, 
+slat_cost, 
+sint_cost, 
+ts_cost, 
+tdomt_cost, 
+tint_cost, 
+total_cost, 
+year
+FROM fuel_comsumption
+WHERE year in (2018,2019);
+
+
 
