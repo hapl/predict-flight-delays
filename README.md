@@ -19,6 +19,7 @@ Extracting information for weather using the Meteostat library. This library has
 - After extracting the information from the database we review the data quality and clean/transform null values to get better accuracy with the models.
 - The latitude and longitude was added to the original data.
 - Label encoding was used to tranform the carrier code.
+
 For more information on this topic go to the [exploratory analysis notebook](src/modules/Exploratory_Analysis.ipynb)
 
 ***Model Evaluation and Predictions**
