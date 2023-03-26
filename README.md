@@ -39,7 +39,7 @@ For more details on this topic, go to the [modeling notebook](src/modules/modeli
 
 ### Results
 
-The model evaluation results are located on the [here](src/tests)
+The model evaluation results are located [here](src/tests)
 
 ### Challenges
 
