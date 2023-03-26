@@ -32,8 +32,7 @@ For more information on this topic, go to the [exploratory analysis notebook](sr
     - Lineal Regression, including Lasso and Ridge
     - XGBoost Regressor
     - Tested Random Forest Classifier (after transforming delay time as labels).
-
-created pickles to save our models and avoid running every time we wanted to evaluate results; those can be found [here](data/pickles)
+- Created pickles to save our models and avoid running every time we wanted to evaluate results; those can be found [here](data/pickles)
 
 For more details on this topic, go to the [modeling notebook](src/modules/modeling.ipynb)
 
