@@ -29,7 +29,7 @@ For more information on this topic, go to the [exploratory analysis notebook](sr
 - Tested different regression models to find the one that gave us the best results.
 - We did hyperparameter tuning to optimize the models.
 - The models tested were:
-    - Lineal Regression, including Lasso and Ridge
+    - Linear Regression, including Lasso and Ridge
     - XGBoost Regressor
     - Tested Random Forest Classifier (after transforming delay time as labels).
 - Created pickles to save our models and avoid running every time we wanted to evaluate results; those can be found [here](data/pickles)
